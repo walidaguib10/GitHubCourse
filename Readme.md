@@ -7,4 +7,4 @@ II - Remote
 git remote -v => to retreive the remote name
 git pull remoteName branch => to retreive the changes from remote repo to local repo
 git config -l => to show git configuration commands
-try
+
